@@ -13,3 +13,12 @@ A fun and responsive browser-based **Snake Game** built with **HTML, CSS, and Ja
 - ⏸️ **Pause & Resume** functionality (via `Spacebar`)
 - 📱 Mobile-friendly UI
 - 🎨 Themed visuals and custom fonts
+
+## 📸 Demo Screenshots
+
+### 🖼️ App Preview
+![Screenshot 1](Screenshot%20(1429).png)
+![Screenshot 2](Screenshot%20(1431).png)
+![Screenshot 3](Screenshot%20(1432).png)
+![Screenshot 4](Screenshot%20(1433).png)
+![Screenshot 5](Screenshot%20(1434).png)
